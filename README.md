@@ -1,4 +1,4 @@
-First year frontend development student at Medieinstitutet, Gothenburg, Sweden.
+Second year frontend development student at Medieinstitutet, Gothenburg, Sweden.
 
 <!---
 NathanaelBlackbourn/NathanaelBlackbourn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
