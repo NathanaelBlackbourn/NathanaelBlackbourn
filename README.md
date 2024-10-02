@@ -1,4 +1,4 @@
-Second year frontend development student at Medieinstitutet, Gothenburg, Sweden.
+Junior front end developer based in Gothenburg, Sweden.
 
 (If you're wondering why my git graph is so empty, it's because I have been using Bit Bucket at my internship.)
 
