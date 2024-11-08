@@ -1,4 +1,4 @@
-# Junior frontend developer based in Gothenburg, Sweden.
+# Web developer based in Gothenburg, Sweden.
 
 I just finished studying at Medieinstitutet here and am looking for work. Most of my experience so far is with Next.js and Sanity. Also taking freelance work!
 
