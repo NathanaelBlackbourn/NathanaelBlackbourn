@@ -1,12 +1,11 @@
-# Web developer based in Gothenburg, Sweden.
+# Fullstack developer based in Gothenburg, Sweden.
 
-I just finished studying at Medieinstitutet here and am looking for work. Most of my experience so far is with Next.js and Sanity. Also taking freelance work!
+- Born in the UK 🇬🇧
+- Developing websites since 2022, now even fullstack apps.
 
-Currently learning three.js and React Three Fiber, would like to expand into some fullstack tools/languages in the near future 🔮
+Currently undergoing the fullstack developer trainee program at Teamtailor.
 
 [See my website and some projects I worked on during my recent internship at Hoy Multimedia.](https://www.sublimesystems.eu/)
-
-(If you're wondering why my git graph is so empty, it's because Hoy uses Bitbucket)
 
 <!---
 NathanaelBlackbourn/NathanaelBlackbourn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
